@@ -1,4 +1,4 @@
-#include "Manga.h"
+#include "../Manga.h"
 
 Manga::Manga() : title(""), genre(""), prodStatus(""), transStatus(""), year(0), chapters(0), rating(0.0) {}
 

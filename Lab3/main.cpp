@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
-#include "Manga.h"
-#include "parser.h"
+#include "../Manga.h"
+#include "../parser.h"
 
 int main() {
     setlocale(LC_ALL, "ru_RU.UTF-8");
