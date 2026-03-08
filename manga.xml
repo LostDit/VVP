@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manga_list>
+    <manga>
+        <title>Ванпанчмен</title>
+        <genre>Сэйнэн</genre>
+        <production_status>Онгоинг</production_status>
+        <translation_status>Онгоинг</translation_status>
+        <year>2012</year>
+        <chapters>306</chapters>
+        <rating>9.62</rating>
+    </manga>
+    <manga>
+        <title>Очаровательный цветок расцветает с достоинством</title>
+        <genre>Сёдзё</genre>
+        <production_status>Онгоинг</production_status>
+        <translation_status>Онгоинг</translation_status>
+        <year>2021</year>
+        <chapters>191</chapters>
+        <rating>9.65</rating>
+    </manga>
+    <manga>
+        <title>Я распродал свою жизнь. По десять тысяч йен в год.</title>
+        <genre>Сэйнэн</genre>
+        <production_status>Завершён</production_status>
+        <translation_status>Завершён</translation_status>
+        <year>2016</year>
+        <chapters>19</chapters>
+        <rating>9.6</rating>
+    </manga>
+    <manga>
+        <title>Магическая битва</title>
+        <genre>Сёнэн</genre>
+        <production_status>Завершён</production_status>
+        <translation_status>Завершён</translation_status>
+        <year>2018</year>
+        <chapters>276</chapters>
+        <rating>8.97</rating>
+    </manga>
+    <manga>
+        <title>Великий из Бродячих Псов</title>
+        <genre>Сэйнэн</genre>
+        <production_status>Онгоинг</production_status>
+        <translation_status>Онгоинг</translation_status>
+        <year>2012</year>
+        <chapters>148</chapters>
+        <rating>9.62</rating>
+    </manga>
+    <manga>
+        <title>Человек-бензопила</title>
+        <genre>Сёнэн</genre>
+        <production_status>Завершён</production_status>
+        <translation_status>Завершён</translation_status>
+        <year>2018</year>
+        <chapters>107</chapters>
+        <rating>9.44</rating>
+    </manga>
+    <manga>
+        <title>Бродяга</title>
+        <genre>Сэйнэн</genre>
+        <production_status>Приостановлен</production_status>
+        <translation_status>Заморожен</translation_status>
+        <year>1998</year>
+        <chapters>328</chapters>
+        <rating>9.79</rating>
+    </manga>
+    <manga>
+        <title>Евангелион</title>
+        <genre>Сёнэн</genre>
+        <production_status>Завершён</production_status>
+        <translation_status>Завершён</translation_status>
+        <year>1994</year>
+        <chapters>102</chapters>
+        <rating>9.4</rating>
+    </manga>
+</manga_list>

@@ -1,0 +1,78 @@
+{
+  "manga_list": {
+    "manga": [
+      {
+        "title": "Ванпанчмен",
+        "genre": "Сэйнэн",
+        "production_status": "Онгоинг",
+        "translation_status": "Онгоинг",
+        "year": "2012",
+        "chapters": "306",
+        "rating": "9.62"
+      },
+      {
+        "title": "Очаровательный цветок расцветает с достоинством",
+        "genre": "Сёдзё",
+        "production_status": "Онгоинг",
+        "translation_status": "Онгоинг",
+        "year": "2021",
+        "chapters": "191",
+        "rating": "9.65"
+      },
+      {
+        "title": "Я распродал свою жизнь. По десять тысяч йен в год.",
+        "genre": "Сэйнэн",
+        "production_status": "Завершён",
+        "translation_status": "Завершён",
+        "year": "2016",
+        "chapters": "19",
+        "rating": "9.6"
+      },
+      {
+        "title": "Магическая битва",
+        "genre": "Сёнэн",
+        "production_status": "Завершён",
+        "translation_status": "Завершён",
+        "year": "2018",
+        "chapters": "276",
+        "rating": "8.97"
+      },
+      {
+        "title": "Великий из Бродячих Псов",
+        "genre": "Сэйнэн",
+        "production_status": "Онгоинг",
+        "translation_status": "Онгоинг",
+        "year": "2012",
+        "chapters": "148",
+        "rating": "9.62"
+      },
+      {
+        "title": "Человек-бензопила",
+        "genre": "Сёнэн",
+        "production_status": "Завершён",
+        "translation_status": "Завершён",
+        "year": "2018",
+        "chapters": "107",
+        "rating": "9.44"
+      },
+      {
+        "title": "Бродяга",
+        "genre": "Сэйнэн",
+        "production_status": "Приостановлен",
+        "translation_status": "Заморожен",
+        "year": "1998",
+        "chapters": "328",
+        "rating": "9.79"
+      },
+      {
+        "title": "Евангелион",
+        "genre": "Сёнэн",
+        "production_status": "Завершён",
+        "translation_status": "Завершён",
+        "year": "1994",
+        "chapters": "102",
+        "rating": "9.4"
+      }
+    ]
+  }
+}
